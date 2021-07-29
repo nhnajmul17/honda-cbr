@@ -33,3 +33,8 @@ body{
 .decoration{
     text-decoration: none;
 }
+
+/* carousel */
+.bg-car{
+    background-color:#fceae8;
+}
