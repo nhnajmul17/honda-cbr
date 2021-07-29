@@ -18,18 +18,20 @@ body{
     border: none;
 
 }
+
 .color-orange{
     color: #E76F51;
 }
 /* Feature Section  */
+
 .grayimg {
     filter: grayscale(100%);
   }
 
+
+
 /* Clients */
-.img-border{
-    border-radius:50%;
-}
+
 .decoration{
     text-decoration: none;
 }
