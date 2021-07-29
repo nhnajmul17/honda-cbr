@@ -1,0 +1,27 @@
+/* Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Header section  */
+
+.bg-head{background-color: #264653;
+
+}
+
+.btn-purchase{
+    background-color: #E76F51;
+    color:white;
+    border-radius: 8px;
+    padding: 10px 35px ;
+    border: none;
+
+}
+.text-orange{
+    color: #E76F51;
+}
+/* Feature Section  */
+.grayimg {
+    filter: grayscale(100%);
+  }
